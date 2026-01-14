@@ -20,12 +20,7 @@ I focus on the **Modern Data Stack**, ensuring data quality, idempotency, and hi
 
 
 
-###  GitHub Analytics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shradhadubey&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shradhadubey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shradhadubey&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 ###  Connect with Me
