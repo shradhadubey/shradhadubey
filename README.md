@@ -24,4 +24,4 @@ I focus on the **Modern Data Stack**, ensuring data quality, idempotency, and hi
 
 ###  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shradhadubey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f2ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://github.com/shradhadubey/shradha-dubey-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f2ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shradhadubey.vercel.app/)
