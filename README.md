@@ -20,7 +20,7 @@ I focus on the **Modern Data Stack**, ensuring data quality, idempotency, and hi
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shradhadubey&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=shradhadubey&theme=tokyonight&hide_border=true&v=1)
 ---
 
 ###  Connect with Me
