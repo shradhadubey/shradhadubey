@@ -19,7 +19,8 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 I focus on the **Modern Data Stack**, ensuring data quality, idempotency, and high availability.
 
 
-![Shradha's Github Stats](https://github-readme-stats.vercel.app/api?username=shradhadubey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![My GitHub Metrics](https://github.com/shradhadubey/shradhadubey/releases/download/latest/github-metrics.svg)
+
 ---
 
 ###  Connect with Me
