@@ -20,6 +20,10 @@ I focus on the **Modern Data Stack**, ensuring data quality, idempotency, and hi
 
 ![My Streak](https://raw.githubusercontent.com/shradhadubey/shradhadubey/main/streak.svg)
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,postgres,aws,githubactions" />
+</p>
+
 ![My Github Metrics](https://raw.githubusercontent.com/shradhadubey/shradhadubey/main/github-metrics.svg)
 ---
 
