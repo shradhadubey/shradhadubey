@@ -1,17 +1,15 @@
-name: Update Streak
+name: GitHub Streak
 on:
-  schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows you to run it manually
+  schedule: [{cron: "0 0 * * *"}] # Runs daily
+  workflow_dispatch:
 jobs:
-  update-streak:
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-streak.svg
+          filename: streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: "" # This hides the general stats
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
