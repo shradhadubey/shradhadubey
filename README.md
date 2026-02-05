@@ -19,7 +19,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 I focus on the **Modern Data Stack**, ensuring data quality, idempotency, and high availability.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shradhadubey&theme=tokyonight&hide_border=true&id=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shradhadubey&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ![My Github Metrics](https://raw.githubusercontent.com/shradhadubey/shradhadubey/main/github-metrics.svg)
