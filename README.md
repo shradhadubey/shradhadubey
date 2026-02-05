@@ -18,6 +18,9 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ###  Data Architectural Expertise
 I focus on the **Modern Data Stack**, ensuring data quality, idempotency, and high availability.
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shradhadubey&theme=tokyonight&hide_border=true&v=2026-fix" alt="Shradha's GitHub Streak" />
+</p>
 
 ![My Github Metrics](https://raw.githubusercontent.com/shradhadubey/shradhadubey/main/github-metrics.svg)
 ---
