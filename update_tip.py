@@ -9,30 +9,22 @@ def update_readme():
         "💡 **Tip:** F-strings are faster and cleaner than `.format()`."
     ]
 
-    start_m = ""
-    end_m = ""
-    
     try:
-        with open("README.md", "r", encoding="utf-8") as f:
-            lines = f.readlines()
+        # 1. Read the template
+        with open("README.template", "r", encoding="utf-8") as f:
+            template = f.read()
 
-        new_lines = []
-        skip = False
-        
-        for line in lines:
-            if start_m in line:
-                new_lines.append(line)
-                new_lines.append(random.choice(tips) + "\n")
-                skip = True
-            elif end_m in line:
-                new_lines.append(line)
-                skip = False
-            elif not skip:
-                new_lines.append(line)
+        # 2. Pick a tip
+        new_tip = random.choice(tips)
 
+        # 3. Replace the placeholder with the tip
+        final_content = template.replace("PYTHON_TIP_HERE", new_tip)
+
+        # 4. Write to the actual README.md
         with open("README.md", "w", encoding="utf-8") as f:
-            f.writelines(new_lines)
-        print("Done!")
+            f.write(final_content)
+            
+        print("Successfully generated README from template.")
 
     except Exception as e:
         print(f"Error: {e}")
