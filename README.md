@@ -29,13 +29,5 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shradhadubey&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="150" />
-  <img src="streak.svg" alt="Streak" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your@email.com)
