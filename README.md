@@ -1,5 +1,4 @@
 # AWS Big Data Engineer | Shradha Dubey
----
 
 ### 🐍 Daily Python Tip
 💡 **Tip:** Loading today's Python magic... 
