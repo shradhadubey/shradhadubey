@@ -1,7 +1,7 @@
 # AWS Big Data Engineer | Shradha Dubey
 
 ### 🐍 Daily Python Tip
-*Loading today's tip...*
+*Loading today's tip...* 
 
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
 
