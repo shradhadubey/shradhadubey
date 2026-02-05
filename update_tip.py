@@ -9,32 +9,28 @@ tips = [
 ]
 
 def update_readme():
-    # Define markers clearly
-    START = ""
-    END = ""
-    
-    with open("README.md", "r", encoding="utf-8") as f:
-        content = f.read()
-
-    # Safety Guard: Check if markers actually exist in the file
-    if START not in content or END not in content:
-        print(f"FAILED: Markers not found in README. Check for {START}")
-        return
-
-    # Logical split
     try:
-        before = content.split(START)[0]
-        after = content.split(END)[1]
+        with open("README.md", "r", encoding="utf-8") as f:
+            content = f.read()
+
+        # Hard-coded strings to avoid "empty separator" variable issues
+        if "" not in content:
+            print("Missing start marker!")
+            return
+
+        # Splitting directly using the string literals
+        before = content.split("")[0]
+        after = content.split("")[1]
         
         new_tip = random.choice(tips)
         
-        # Re-build the file
-        new_content = f"{before}{START}\n{new_tip}\n{END}{after}"
+        # Rebuild
+        new_content = before + "\n" + new_tip + "\n" + after
         
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(new_content)
-        print("SUCCESS: README updated with a new tip.")
-        
+        print("Successfully updated README.")
+
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
