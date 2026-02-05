@@ -2,7 +2,7 @@
 
 ### 🐍 Daily Python Tip
 💡 **Tip:** Loading today's Python magic... 
-
+---
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
 
 ---
