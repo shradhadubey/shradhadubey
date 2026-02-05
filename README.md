@@ -1,6 +1,11 @@
-# AWS Big Data Engineer | Shradha Dubey
+# Hi there, I'm Shradha! 👋
 
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
+
+---
+
+### 🐍 Daily Python Tip
+💡 **Tip:** `.get()` on dictionaries prevents `KeyError`.
 
 ---
 
@@ -15,18 +20,13 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 
 ---
 
-###  Data Architectural Expertise
-I focus on the **Modern Data Stack**, ensuring data quality, idempotency, and high availability.
-
-![My Streak](https://raw.githubusercontent.com/shradhadubey/shradhadubey/main/streak.svg)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,pycharm,postgres,aws,github,githubactions,terraform,vscode" />
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shradhadubey&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="150" />
+  <img src="streak.svg" alt="Streak" height="150" />
 </p>
 
-![My Github Metrics](https://raw.githubusercontent.com/shradhadubey/shradhadubey/main/github-metrics.svg)
 ---
 
-###  Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shradhadubey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f2ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shradhadubey.vercel.app/)
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your@email.com)
