@@ -28,5 +28,6 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://shradhadubey.vercel.app/) | [Send Email](mailto:shradha.dubeyy@gmail.com?subject=ConnectionRequestViaGithub)
+[LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://shradhadubey.vercel.app/) | <a href="mailto:shradha.dubeyy@gmail.com">Contact Me</a>
+
 
