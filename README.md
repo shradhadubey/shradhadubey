@@ -1,15 +1,15 @@
-# Hi there, I'm Shradha!
+# Hi there, I'm Shradha! 👋
 
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `enumerate()` instead of `range(len())` to get both index and value.
+💡 **Tip:** `isinstance(obj, int)` is safer than `type(obj) == int`.
 
 ---
 
-### Technical Ecosystem
+### 🛠️ Technical Ecosystem
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -20,14 +20,13 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 
 ---
 
-### My GitHub Stats
+### 📊 My GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shradhadubey&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="150" />
   <img src="streak.svg" alt="Streak" height="150" />
 </p>
 
 ---
 
-### Connect with me
-[LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://shradhadubey.vercel.app/) | [Contact Me](mailto:shradha.dubeyy@gmail.com)
-
-
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your@email.com)
