@@ -5,7 +5,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** F-strings are faster and cleaner than `.format()`.
+💡 **Tip:** Use `enumerate()` instead of `range(len())` to get both index and value.
 
 ---
 
