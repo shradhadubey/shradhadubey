@@ -19,7 +19,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 | **Processing & Storage** | PySpark, Snowflake, PostgreSQL, dbt, Apache Kafka |
 
 
-Inviting Collaboration on: https://www.data.gov.in/ Projects! Please message me on LinkedIn  
+Inviting Collaboration on new projects and ideas! Please message me on LinkedIn
 ---
 
 ### 📫 Connect with me
