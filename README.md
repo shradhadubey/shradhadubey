@@ -18,7 +18,9 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 | **Data Orchestration** | Apache Airflow, Prefect, GitHub Actions |
 | **Processing & Storage** | PySpark, Snowflake, PostgreSQL, dbt, Apache Kafka |
 
+
+Inviting Collaboration on: https://www.data.gov.in/ Projects! Please message me on LinkedIn  
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://shradhadubey.vercel.app/) | [Email](mailto:shradha.dubeyy@email.com)
