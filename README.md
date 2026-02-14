@@ -5,7 +5,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `enumerate()` instead of `range(len())` to get both index and value.
+💡 **Tip:** Use `zip()` to iterate over multiple lists at once.
 
 ---
 
@@ -17,8 +17,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 | **Cloud Infrastructure** | AWS (S3, Redshift, Lambda, Glue, EC2), Docker, Terraform |
 | **Data Orchestration** | Apache Airflow, Prefect, GitHub Actions |
 | **Processing & Storage** | PySpark, Snowflake, PostgreSQL, dbt, Apache Kafka |
-
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://shradhadubey.vercel.app/) | [Email](shradha.dubeyy@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your@email.com)
