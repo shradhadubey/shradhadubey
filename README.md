@@ -1,4 +1,4 @@
-# Hi there, I'm Shradha! 👋
+# Hi there, I'm Shradha!
 
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
 
@@ -19,5 +19,5 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 | **Processing & Storage** | PySpark, Snowflake, PostgreSQL, dbt, Apache Kafka |
 ---
 
-### 📫 Connect with me
+###  Connect with me
 [LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://shradhadubey.vercel.app/) | [Email](mailto:shradha.dubeyy@gmail.com)
