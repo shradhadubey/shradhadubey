@@ -1,13 +1,11 @@
-# Hi there, I'm Shradha!
+# Hi there, I'm Shradha! 👋
 
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shradhadubey)](https://git.io/streak-stats)
-
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `zip()` to iterate over multiple lists at once.
+💡 **Tip:** `.get()` on dictionaries prevents `KeyError`.
 
 ---
 
@@ -21,5 +19,5 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 | **Processing & Storage** | PySpark, Snowflake, PostgreSQL, dbt, Apache Kafka |
 ---
 
-###  Connect with me
+### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://shradhadubey.vercel.app/) | [Email](mailto:shradha.dubeyy@gmail.com)
