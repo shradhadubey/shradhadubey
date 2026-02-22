@@ -1,10 +1,10 @@
-# Hi there, I'm Shradha! 👋
+# Hi there, I'm Shradha!
 
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
 
 ---
 
-### 🐍 Daily Python Tip
+### Daily Python Tip
 💡 **Tip:** F-strings are faster and cleaner than `.format()`.
 
 ---
