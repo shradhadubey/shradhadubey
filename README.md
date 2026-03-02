@@ -5,7 +5,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** `.get()` on dictionaries prevents `KeyError`.
+💡 **Tip:** F-strings are faster and cleaner than `.format()`.
 
 ---
 
