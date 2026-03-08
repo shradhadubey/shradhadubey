@@ -5,7 +5,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** `isinstance(obj, int)` is safer than `type(obj) == int`.
+💡 **Tip:** F-strings are faster and cleaner than `.format()`.
 
 ---
 
