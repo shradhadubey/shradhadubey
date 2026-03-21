@@ -19,5 +19,5 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 | **Processing & Storage** | PySpark, Snowflake, PostgreSQL, dbt, Apache Kafka |
 ---
 
-### Connect with me
+### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/shradhadubey/) | [Portfolio](https://shradhadubey.vercel.app/) | [Email](mailto:shradha.dubeyy@gmail.com)
