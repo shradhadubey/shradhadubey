@@ -9,7 +9,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 
 ---
 
-### Technical Ecosystem:
+### Technical Ecosystem
 
 | Category | Tools & Technologies |
 | :--- | :--- |
