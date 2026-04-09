@@ -5,7 +5,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shradhadubey&theme=highcontrast&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `zip()` to iterate over multiple lists at once.
+💡 **Tip:** `isinstance(obj, int)` is safer than `type(obj) == int`.
 
 ---
 
