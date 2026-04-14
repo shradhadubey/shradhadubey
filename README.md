@@ -5,15 +5,13 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shradhadubey&theme=highcontrast&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `enumerate()` instead of `range(len())` to get both index and value.
+💡 **Tip:** `.get()` on dictionaries prevents `KeyError`.
 
 ---
-
 ### Dev Joke of the Day
-PYTHON_JOKE_HERE
+I'm not anti-social; I'm just not user friendly.
 
 ---
-
 
 ### Technical Ecosystem
 

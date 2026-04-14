@@ -18,7 +18,7 @@ def update_readme():
         # 2. Pick a tip & joke
         new_tip = random.choice(tips)
         # Using 'neutral' category for professional profiles
-        new_joke = f"奏 {pyjokes.get_joke(language='en', category='neutral')}"
+        new_joke = f"{pyjokes.get_joke(language='en', category='neutral')}"
 
         # 3. Replace the placeholder with the tip
         final_content = template.replace("PYTHON_TIP_HERE", new_tip)
