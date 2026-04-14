@@ -9,6 +9,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 
 ---
 
+### Dev Joke of the Day
+PYTHON_JOKE_HERE
+
+---
+
+
 ### 🛠️ Technical Ecosystem
 
 | Category | Tools & Technologies |
