@@ -4,8 +4,6 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shradhadubey&theme=highcontrast&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
-[![Daily Python Tip & Dev Joke Update](https://github.com/shradhadubey/shradhadubey/actions/workflows/daily_tip.yml/badge.svg)](https://github.com/shradhadubey/shradhadubey/actions/workflows/daily_tip.yml)
-
 ![Snake animation](https://github.com/shradhadubey/shradhadubey/raw/output/github-contribution-grid-snake.svg)
 
 ---
@@ -16,9 +14,9 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-Why do they call it hyper terminal?
+How can you tell an extroverted programmer?
 
-*Too much Java.*
+*He looks at YOUR shoes when he's talking.*
 
 ---
 
