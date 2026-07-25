@@ -4,17 +4,19 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shradhadubey&theme=highcontrast&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
+![Snake animation](https://github.com/shradhadubey/shradhadubey/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Use `f-strings` with formatting specifiers (e.g., `f'{value:.2f}'` or `f'{date:%Y-%m-%d}'`) for fast string formatting.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why do programmers confuse Halloween and Christmas?
+Why do they call it hyper terminal?
 
-*Because Oct 31 = Dec 25*
+*Too much Java.*
 
 ---
 
