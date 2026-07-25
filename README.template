@@ -1,19 +1,22 @@
-# Hi there, I'm Shradha!
+# Hi there, I'm Shradha! 👋
 
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shradhadubey&theme=highcontrast&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
+---
+
 ### 🐍 Daily Python Tip
 PYTHON_TIP_HERE
 
 ---
-### Dev Joke of the Day
+
+### 💡 Dev Joke of the Day
 PYTHON_JOKE_HERE
 
 ---
 
-### Technical Ecosystem
+### 🛠️ Technical Ecosystem
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -21,6 +24,16 @@ PYTHON_JOKE_HERE
 | **Cloud Infrastructure** | AWS (S3, Redshift, Lambda, Glue, EC2), Docker, Terraform |
 | **Data Orchestration** | Apache Airflow, Prefect, GitHub Actions |
 | **Processing & Storage** | PySpark, Snowflake, PostgreSQL, dbt, Apache Kafka |
+
+---
+
+### 📖 Latest Publication
+
+> **The Future of Data Engineering**  
+> Exploring Lakehouse Architecture, Delta Lake, Databricks, AI-ready Data Platforms, and the evolution beyond traditional ETL.  
+>  
+> 🔗 [Read Publication](https://the-future-of-data-engin-dn0llcm.gamma.site/)
+
 ---
 
 ### 📫 Connect with me
