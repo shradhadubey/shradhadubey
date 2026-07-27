@@ -9,14 +9,15 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
+💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why are modern programming languages so materialistic?
-
-*Because they are object-oriented.*
+"Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 
 ---
 
