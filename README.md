@@ -9,15 +9,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
+💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
 
 ---
 
 ### 💡 Dev Joke of the Day
-"Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned.
+Why did the programmer jump on the table?
+
+*Because debug was on his screen.*
 
 ---
 
