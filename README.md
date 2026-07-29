@@ -9,14 +9,17 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
+💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why did the programmer jump on the table?
+"Knock, knock."
+"Who's there?"
 
-*Because debug was on his screen.*
+[very long pause]
+
+"Java."
 
 ---
 
