@@ -9,17 +9,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
+💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
 
 ---
 
 ### 💡 Dev Joke of the Day
-"Knock, knock."
-"Who's there?"
+How did the programmer die in the shower?
 
-[very long pause]
-
-"Java."
+*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
 
 ---
 
