@@ -9,14 +9,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
+💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why do programmers prefer using the dark mode?
-
-*Because light attracts bugs.*
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 
 ---
 
