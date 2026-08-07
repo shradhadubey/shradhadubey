@@ -9,16 +9,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
+💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Two C strings walk into a bar.
-The bartender asks "What can I get ya?"
-The first string says "I'll have a gin and tonic."
-The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
-The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."
+why do python programmers wear glasses?
+
+*Because they can't C.*
 
 ---
 
