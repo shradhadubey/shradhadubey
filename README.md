@@ -9,14 +9,17 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
+💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
 
 ---
 
 ### 💡 Dev Joke of the Day
-why do python programmers wear glasses?
+"Knock, knock."
+"Who's there?"
 
-*Because they can't C.*
+[very long pause]
+
+"Java."
 
 ---
 
