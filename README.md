@@ -9,17 +9,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
+💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
 
 ---
 
 ### 💡 Dev Joke of the Day
-"Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java."
+Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 
 ---
 
