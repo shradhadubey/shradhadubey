@@ -9,12 +9,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 ---
 
