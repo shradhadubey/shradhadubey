@@ -9,14 +9,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Hey, wanna hear a joke?
+Why are modern programming languages so materialistic?
 
-*Parsing HTML with regex.*
+*Because they are object-oriented.*
 
 ---
 
