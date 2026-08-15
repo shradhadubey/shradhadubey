@@ -9,14 +9,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
+💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why are modern programming languages so materialistic?
+Why did the programmer quit his job?
 
-*Because they are object-oriented.*
+*Because he didn't get arrays.*
 
 ---
 
