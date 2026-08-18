@@ -9,12 +9,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
+💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Your mama's so FAT she can't save files bigger than 4GB.
+How can you tell an extroverted programmer?
+
+*He looks at YOUR shoes when he's talking.*
 
 ---
 
