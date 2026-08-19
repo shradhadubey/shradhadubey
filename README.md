@@ -9,14 +9,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
+💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
 
 ---
 
 ### 💡 Dev Joke of the Day
-How can you tell an extroverted programmer?
+Why are Assembly programmers always soaking wet?
 
-*He looks at YOUR shoes when he's talking.*
+*They work below C-level.*
 
 ---
 
