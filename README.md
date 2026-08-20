@@ -9,14 +9,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
+💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why are Assembly programmers always soaking wet?
+Why did the web developer walk out of a resturant in disgust?
 
-*They work below C-level.*
+*The seating was laid out in tables.*
 
 ---
 
