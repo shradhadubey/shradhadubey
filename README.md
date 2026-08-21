@@ -14,9 +14,9 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-Why did the web developer walk out of a resturant in disgust?
+What do you call a developer who doesn't comment code?
 
-*The seating was laid out in tables.*
+*A developer.*
 
 ---
 
