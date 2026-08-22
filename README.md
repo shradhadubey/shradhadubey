@@ -7,6 +7,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 <div align="center">
 
 ### LO-FI BEATS
+
 <a href="https://shradhadubey.github.io/shradhadubey/music/">
   <img
     src="https://img.shields.io/badge/▶%20PLAY%20CODING%20SOUNDTRACK-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
