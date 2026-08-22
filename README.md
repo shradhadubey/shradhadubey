@@ -2,28 +2,12 @@
 
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
 
-## 🎧 Currently Coding To
-
-<div align="center">
-
-### 🎵 LO-FI BEATS
-
-**Python • SQL • AWS • PySpark • Databricks**
-
-<a href="https://shradhadubey.github.io/shradhadubey/music/">
+<a href="https://shradhadubey.github.io/music/">
   <img
     src="https://img.shields.io/badge/▶%20PLAY%20CODING%20SOUNDTRACK-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
     alt="Play Shradha's coding soundtrack"
   />
 </a>
-
-<br>
-
-<sub>
-Click play → open the lo-fi workstation → start coding.
-</sub>
-
-</div>
 
 ---
 
