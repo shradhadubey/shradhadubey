@@ -8,7 +8,6 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 
 ### LO-FI BEATS
 
-Python • SQL • AWS • PySpark • Databricks
 
 <a href="https://shradhadubey.github.io/music/">
   <img
