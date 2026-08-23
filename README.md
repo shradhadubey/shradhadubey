@@ -1,7 +1,6 @@
 # Hi there, I'm Shradha! 👋
 
 I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
-
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shradhadubey&theme=highcontrast&border_radius=10&mode=weekly)](https://git.io/streak-stats)
@@ -11,7 +10,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
+💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
 
 ---
 
