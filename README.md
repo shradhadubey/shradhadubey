@@ -1,6 +1,6 @@
 # Hi there, I'm Shradha! 👋
 
-I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
+I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shradhadubey&theme=highcontrast&border_radius=10&mode=weekly)](https://git.io/streak-stats)
