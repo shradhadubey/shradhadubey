@@ -1,6 +1,6 @@
 # Hi there, I'm Shradha! 👋
 
-I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence
+I build scalable data infrastructures and automated pipelines that turn complex datasets into actionable intelligence.
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shradhadubey&theme=highcontrast&border_radius=10&mode=weekly)](https://git.io/streak-stats)
@@ -15,10 +15,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 
 ---
 
