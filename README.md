@@ -10,16 +10,15 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
+💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Four engineers get into a car. The car won't start.
-The Mechanical engineer says "It's a broken starter".
-The Electrical engineer says "Dead battery".
-The Chemical engineer says "Impurities in the gasoline".
-The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 
 ---
 
