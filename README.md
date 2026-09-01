@@ -10,12 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
+💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
 
 ---
 
 ### 💡 Dev Joke of the Day
-// This line doesn't actually do anything, but the code stops working when I delete it.
+How many programmers does it take to screw in a light bulb?
+
+*None. It's a hardware problem.*
 
 ---
 
