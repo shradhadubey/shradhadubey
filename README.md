@@ -10,12 +10,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
+💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
 
 ---
 
