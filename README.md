@@ -10,12 +10,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
+💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 ---
 
