@@ -10,14 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
+💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why did the functional programmer get thrown out of school?
+How do you generate a random string?
 
-*Because he refused to take classes.*
+*Put a Windows user in front of Vim and tell them to exit.*
 
 ---
 
