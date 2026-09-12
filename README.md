@@ -10,14 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
 
 ---
 
 ### 💡 Dev Joke of the Day
-How do you generate a random string?
+Why did the programmer jump on the table?
 
-*Put a Windows user in front of Vim and tell them to exit.*
+*Because debug was on his screen.*
 
 ---
 
