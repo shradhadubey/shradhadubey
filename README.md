@@ -15,9 +15,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-How many programmers does it take to screw in a light bulb?
-
-*None. It's a hardware problem.*
+ASCII silly question, get a silly ANSI.
 
 ---
 
