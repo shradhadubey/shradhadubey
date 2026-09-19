@@ -10,12 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
 
 ---
 
 ### 💡 Dev Joke of the Day
-ASCII silly question, get a silly ANSI.
+A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 
 ---
 
