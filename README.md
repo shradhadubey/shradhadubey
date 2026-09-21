@@ -10,14 +10,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
+💡 **Tip:** Use `f-strings` with formatting specifiers (e.g., `f'{value:.2f}'` or `f'{date:%Y-%m-%d}'`) for fast string formatting.
 
 ---
 
 ### 💡 Dev Joke of the Day
-How many programmers does it take to screw in a light bulb?
-
-*None. It's a hardware problem.*
+Your momma is so fat, you need to switch to NTFS to store a picture of her.
 
 ---
 
