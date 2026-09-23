@@ -10,16 +10,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
+💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
 
 ---
 
 ### 💡 Dev Joke of the Day
-How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 ---
 
