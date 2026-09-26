@@ -10,14 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why do programmers confuse Halloween and Christmas?
+Why did the Python data scientist get arrested at customs?
 
-*Because Oct 31 = Dec 25*
+*She was caught trying to import pandas!*
 
 ---
 
