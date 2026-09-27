@@ -15,9 +15,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-Why did the Python data scientist get arrested at customs?
-
-*She was caught trying to import pandas!*
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 ---
 
