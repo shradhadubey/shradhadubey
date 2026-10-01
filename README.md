@@ -15,9 +15,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-What is the best prefix for global variables?
-
-*//*
+Debugging: Removing the needles from the haystack.
 
 ---
 
