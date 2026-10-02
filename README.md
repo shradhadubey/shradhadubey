@@ -10,12 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `f-strings` with formatting specifiers (e.g., `f'{value:.2f}'` or `f'{date:%Y-%m-%d}'`) for fast string formatting.
+💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Debugging: Removing the needles from the haystack.
+What is the most used language in programming?
+
+*Profanity.*
 
 ---
 
