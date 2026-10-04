@@ -10,16 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
+💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+How many programmers does it take to screw in a light bulb?
+
+*None. It's a hardware problem.*
 
 ---
 
