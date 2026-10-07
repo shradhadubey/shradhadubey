@@ -10,14 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
+💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
 
 ---
 
 ### 💡 Dev Joke of the Day
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+.NET developers are picky when it comes to food.
+
+*They only like chicken NuGet.*
 
 ---
 
