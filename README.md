@@ -10,14 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
+💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why are Assembly programmers always soaking wet?
+Why did the Python programmer not respond to the foreign mails he got?
 
-*They work below C-level.*
+*Because his interpreter was busy collecting garbage.*
 
 ---
 
