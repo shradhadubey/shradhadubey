@@ -10,15 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
+💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
 
 ---
 
 ### 💡 Dev Joke of the Day
-A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off."
+A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 
 ---
 
