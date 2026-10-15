@@ -10,14 +10,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
+💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
 
 ---
 
 ### 💡 Dev Joke of the Day
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 ---
 
