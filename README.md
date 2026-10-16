@@ -10,12 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+How did the programmer die in the shower?
+
+*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
 
 ---
 
