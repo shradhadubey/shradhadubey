@@ -10,14 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
+💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why was the JavaScript developer sad?
+How many programmers does it take to screw in a light bulb?
 
-*Because they didn't Node how to Express themself!*
+*None. It's a hardware problem.*
 
 ---
 
