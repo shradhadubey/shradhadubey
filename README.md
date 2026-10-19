@@ -15,9 +15,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-How many programmers does it take to screw in a light bulb?
-
-*None. It's a hardware problem.*
+Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
 
 ---
 
