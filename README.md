@@ -10,12 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `f-strings` with formatting specifiers (e.g., `f'{value:.2f}'` or `f'{date:%Y-%m-%d}'`) for fast string formatting.
+💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+Why do programmers confuse Halloween and Christmas?
+
+*Because Oct 31 = Dec 25*
 
 ---
 
