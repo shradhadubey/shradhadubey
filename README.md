@@ -10,14 +10,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
+💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why do programmers confuse Halloween and Christmas?
-
-*Because Oct 31 = Dec 25*
+I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 
 ---
 
