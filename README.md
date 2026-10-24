@@ -10,12 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
+💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
 
 ---
 
 ### 💡 Dev Joke of the Day
-I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+How can you tell an extroverted programmer?
+
+*He looks at YOUR shoes when he's talking.*
 
 ---
 
