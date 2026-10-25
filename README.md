@@ -10,14 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
+💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
 
 ---
 
 ### 💡 Dev Joke of the Day
-How can you tell an extroverted programmer?
+What is the best prefix for global variables?
 
-*He looks at YOUR shoes when he's talking.*
+*//*
 
 ---
 
