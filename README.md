@@ -10,14 +10,16 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
 
 ---
 
 ### 💡 Dev Joke of the Day
-What is the best prefix for global variables?
-
-*//*
+Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 
 ---
 
