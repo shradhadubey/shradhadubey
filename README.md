@@ -10,16 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
+💡 **Tip:** Use `f-strings` with formatting specifiers (e.g., `f'{value:.2f}'` or `f'{date:%Y-%m-%d}'`) for fast string formatting.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+Why does no one like SQLrillex?
+
+*He keeps dropping the database.*
 
 ---
 
