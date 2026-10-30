@@ -10,12 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Use `itertools.chain()` to combine multiple iterables into a single sequence without loading everything into memory.
 
 ---
 
 ### 💡 Dev Joke of the Day
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+What do you call a developer who doesn't comment code?
+
+*A developer.*
 
 ---
 
