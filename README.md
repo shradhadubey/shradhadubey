@@ -15,7 +15,9 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+Why did the database administrator leave his wife?
+
+*She had one-to-many relationships.*
 
 ---
 
