@@ -15,9 +15,9 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-Why did the database administrator leave his wife?
+Why do programmers confuse Halloween and Christmas?
 
-*She had one-to-many relationships.*
+*Because Oct 31 = Dec 25*
 
 ---
 
