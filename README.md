@@ -10,14 +10,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
+💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why do programmers confuse Halloween and Christmas?
-
-*Because Oct 31 = Dec 25*
+UDP is better in the COVID era since it avoids unnecessary handshakes.
 
 ---
 
