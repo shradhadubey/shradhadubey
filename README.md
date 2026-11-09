@@ -10,12 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
+💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.
+Why do programmers prefer using the dark mode?
+
+*Because light attracts bugs.*
 
 ---
 
