@@ -10,14 +10,13 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use list comprehension `[x for x in data if condition]` for clean, concise filtering.
+💡 **Tip:** Use `f-strings` with formatting specifiers (e.g., `f'{value:.2f}'` or `f'{date:%Y-%m-%d}'`) for fast string formatting.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why do programmers prefer using the dark mode?
-
-*Because light attracts bugs.*
+Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday.
 
 ---
 
