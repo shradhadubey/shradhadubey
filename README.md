@@ -10,13 +10,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `f-strings` with formatting specifiers (e.g., `f'{value:.2f}'` or `f'{date:%Y-%m-%d}'`) for fast string formatting.
+💡 **Tip:** Leverage `pathlib.Path` instead of `os.path` for object-oriented, cross-platform file path handling.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 ---
 
