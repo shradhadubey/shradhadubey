@@ -10,14 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
+💡 **Tip:** Use `dataclasses.dataclass` to auto-generate `__init__`, `__repr__`, and equality methods for data containers.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why does no one like SQLrillex?
+Why did the Python data scientist get arrested at customs?
 
-*He keeps dropping the database.*
+*She was caught trying to import pandas!*
 
 ---
 
