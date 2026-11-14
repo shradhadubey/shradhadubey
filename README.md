@@ -15,9 +15,9 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 💡 Dev Joke of the Day
-Why did the Python data scientist get arrested at customs?
+What's the object-oriented way to become wealthy?
 
-*She was caught trying to import pandas!*
+*Inheritance.*
 
 ---
 
