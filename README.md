@@ -10,14 +10,12 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
+💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
 
 ---
 
 ### 💡 Dev Joke of the Day
-Why do programmers prefer using the dark mode?
-
-*Because light attracts bugs.*
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 
 ---
 
