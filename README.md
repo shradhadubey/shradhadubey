@@ -10,7 +10,7 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Use `collections.defaultdict` to avoid key-checking logic when initializing dictionary values.
+💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
 
 ---
 
