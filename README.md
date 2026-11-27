@@ -10,18 +10,14 @@ I build scalable data infrastructures and automated pipelines that turn complex 
 ---
 
 ### 🐍 Daily Python Tip
-💡 **Tip:** Enumerate over sequences with `for idx, item in enumerate(items):` to track indices cleanly.
+💡 **Tip:** Use `zip()` to iterate over multiple iterables simultaneously without managing manual counters.
 
 ---
 
 ### 💡 Dev Joke of the Day
-The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?
+Why does no one like SQLrillex?
+
+*He keeps dropping the database.*
 
 ---
 
